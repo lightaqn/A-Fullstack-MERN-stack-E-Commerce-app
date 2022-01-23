@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.jumbotron {
+    border-radius: 5px;
+    background-color: #645f5d;
+    padding: 10px;
+    text-align: center;
+}
+
+.jumbotron h1{
+    font-family: 'Monoton', cursive;
+    font-size: '60px';
+    color: #c50303
+}
+
+.jumbotron p{
+    font-size: 18px;
+    color: rgb(12, 12, 12);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 40px
+}
+
+.jumbotron h2{
+    font-size: 30px;
+    font-weight: 20px;
+    color: #fff;
+    font: 400
+}
